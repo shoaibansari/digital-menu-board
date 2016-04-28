@@ -1,5 +1,5 @@
-# digital-menu-bord
-Digital Menu Bord for namaz timing and donations
+# digital-menu-board
+Digital Menu Board for namaz timing and donations
 <br>
 1.admin login panel
 <br>
