@@ -1,5 +1,6 @@
 # digital-menu-bord
 Digital Menu Bord for namaz timing and donations
+<br>
 1.admin login panel
 <br>
 2.change namaz timiing from admin panel
