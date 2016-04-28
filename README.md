@@ -1,4 +1,4 @@
-# digital-menu-board
+# Digital Menu Board
 Digital Menu Board for namaz timing and donations
 <br>
 1. Admin panel using core php <br>
